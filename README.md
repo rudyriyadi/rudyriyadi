@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Rudy,
-My previous role as SQA Lead and I have over more than 7 years of experience in quality assurance, working across various industries, including Hospital, Banking and Online Travel Agent . Having knowledege manual test, Integration test, UAT test, API test using Postman, Automation test using Katalon, Selenium, Appium, Cypress. I'm using methodologies Agile, scrum ceremonies (Backlog Grooming, Sprint Planning, Sprint Restrospective, etc.) and for the tools Jira, Confluence, Figma, TestRail, Firebase Crashlytic
+My previous role as SQA Lead and I have over more than 7 years of experience in quality assurance, working across various industries, including Hospital, Banking and Online Travel Agent . Having knowledege manual test, Integration test, UAT test, API test using Postman, Automation test using Katalon, Selenium, Appium, Cypress. Agile methodologies, scrum ceremonies (Backlog Grooming, Sprint Planning, Sprint Restrospective, etc.) and for the tools Jira, Confluence, Figma, TestRail, Firebase Crashlytic
 
 <!--
 **rudyriyadi/rudyriyadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 <!--ts-->
   * [Stats](#stats)
   * [Tools](#tools)
-  * 
+  * [Testcase](#testcase)
+  * [Connect](#connect)
+  * [Contact me](#contact-me)
 
 <!--te-->
 <p align="left">
@@ -43,6 +45,30 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/-figma-181717?style=for-the-badge&logo=figma)
 ![Firebase](https://img.shields.io/badge/-firebase-181717?style=for-the-badge&logo=firebase)
 ![Katalon](https://img.shields.io/badge/-Katalon-181717?style=for-the-badge&logo=Katalon)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-181717.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+## ▶️Testcase
+<details>
+ <summary><strong>Bincang QA Content</strong></summary>
+
+ </details>
+
+
+## 🔗Connect
+<p>
+    <a href="https://www.linkedin.com/in/wisnuwm" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
+     <a href="https://www.instagram.com/wisnumnw/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
+    <a href="https://www.youtube.com/channel/UCLsr3AZJbxy9hB4-4y9H0zA" target="blank"><img src="https://img.shields.io/badge/-youtube-181717?style=for-the-badge&logo=youtube" /></a>
+<a href="https://bincangqa.tech/home/" target="blank"><img src="https://img.shields.io/badge/Website-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+</p>
+
+
+### 📝Contact me!
+<p>
+    <a href="mailto: wisnu265@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
+</p>
+
 
 
 
