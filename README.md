@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 ## Contents
 <!--ts-->
   * [Stats](#stats)
+  * [Test](#Test)
+    * [Testcase](#test-case)
+    * [Bug Report](#bug-report)
   * [Tools](#tools)
   * [Connect](#connect)
   * [Contact me](#contact-me)
@@ -29,6 +32,19 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rudyriyadi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+## Test
+<details>
+ <summary><strong>Test Content</strong> </summary>
+ 
+  * [Test Case1](https://docs.google.com/spreadsheets/d/1VTVa1gs8GZaVVE1K66je9mSSoztPnjMV/edit?gid=1226590816#gid=1226590816)</br>
+  * [Test Case2](https://docs.google.com/spreadsheets/d/12iK4exU_I_6et6DNsv_w-U-U7exFeewo/edit?gid=1488064853#gid=1488064853)</br>
+  * [Bug Report](https://docs.google.com/spreadsheets/d/1wDqyq6s4XxCm9sVbRnesvCNj3jRVzAGI/edit?gid=1257328364#gid=1257328364)</br>
+
+  
+ </details>
+
+ 
 
 ## 🔨Tools
 ![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)
