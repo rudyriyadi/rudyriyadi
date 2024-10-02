@@ -22,6 +22,8 @@ Here are some ideas to get you started:
     * [Testcase](#test-case)
     * [Bug Report](#bug-report)
     * [API](#API)
+    * [Timeline](#timeline)
+
 
   * [Tools](#tools)
   * [Connect](#connect)
@@ -43,9 +45,7 @@ Here are some ideas to get you started:
   * [Test Case2](https://docs.google.com/spreadsheets/d/12iK4exU_I_6et6DNsv_w-U-U7exFeewo/edit?gid=1488064853#gid=1488064853)</br>
   * [Bug Report](https://docs.google.com/spreadsheets/d/1wDqyq6s4XxCm9sVbRnesvCNj3jRVzAGI/edit?gid=1257328364#gid=1257328364)</br>
   * [API](https://github.com/rudyriyadi/API)</br>
-
-
-  https://github.com/rudyriyadi/API
+  * [Timeline](https://docs.google.com/spreadsheets/d/10cjg7t_-DFYRwtvSSMivgDzrpT2dZcD7/edit?gid=455414971#gid=455414971)</br>
 
   
  </details>
