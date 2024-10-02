@@ -48,25 +48,19 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-181717.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-## ▶️Testcase
-<details>
- <summary><strong>Bincang QA Content</strong></summary>
-
- </details>
 
 
 ## 🔗Connect
 <p>
-    <a href="https://www.linkedin.com/in/wisnuwm" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
-     <a href="https://www.instagram.com/wisnumnw/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
-    <a href="https://www.youtube.com/channel/UCLsr3AZJbxy9hB4-4y9H0zA" target="blank"><img src="https://img.shields.io/badge/-youtube-181717?style=for-the-badge&logo=youtube" /></a>
-<a href="https://bincangqa.tech/home/" target="blank"><img src="https://img.shields.io/badge/Website-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/
+raden-rudy-riyadi-48855094" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
+ 
 </p>
 
 
 ### 📝Contact me!
 <p>
-    <a href="mailto: wisnu265@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
+    <a href="mailto: rudyriyadi@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 
