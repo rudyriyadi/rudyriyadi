@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <!--ts-->
   * [Stats](#stats)
   * [Tools](#tools)
-  * [Testcase](#testcase)
   * [Connect](#connect)
   * [Contact me](#contact-me)
 
